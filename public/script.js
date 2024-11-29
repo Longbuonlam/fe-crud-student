@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3001'; // backend api
+const apiUrl = 'https://be-crud-student-951p.onrender.com'; // backend api
 let students = []
 let currentPage = 1
 const pageSize = 3
